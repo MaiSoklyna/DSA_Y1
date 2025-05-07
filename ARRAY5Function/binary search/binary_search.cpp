@@ -158,7 +158,7 @@ void OrderedArray::binarySearch()
           cout << "Value " << searchValue << " not found in the array." << endl;
      }
 }
-
+   
 int main()
 {
      OrderedArray obj;
